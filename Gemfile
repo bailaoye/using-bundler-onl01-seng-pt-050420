@@ -1,4 +1,4 @@
-require_relative bundler/setup
+require_relative "bundler/setup"
 
 source "https://rubygems.org"
 gem "sinatra", "1.4.4"
